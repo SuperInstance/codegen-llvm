@@ -1,0 +1,9 @@
+[package]
+name = "codegen-llvm"
+version = "0.1.0"
+description = "A Rust library for Codegen Llvm"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/codegen-llvm"
+edition = "2021"
+
+[dependencies]
